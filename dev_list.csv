@@ -1,0 +1,5 @@
+Core_1,10.0.0.1,Cisco,1
+Agg_2,10.0.0.2,H3C,1
+Acc_3,10.0.0.3,Juniper,1
+Acc_4,10.0.0.4,Dell,0
+Acc_5,10.0.0.5,Huawei,0
